@@ -7,8 +7,6 @@
 
 ## 🔥 Featured Project
 👉 QueueFlow AI  
-https://queueflow-ai.netlify.app/
-
 ---
 
 ## 🛠 Tech Stack
