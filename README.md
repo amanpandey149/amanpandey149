@@ -5,8 +5,8 @@
 
 ---
 
-## 🔥 Featured Project
-👉 QueueFlow AI  
+##  🔥 Featured Project
+  👉  QueueFlow AI  
 ---
 
 ## 🛠 Tech Stack
