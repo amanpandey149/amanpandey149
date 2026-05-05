@@ -6,7 +6,8 @@
 ---
 
 ##  🔥 Featured Project
-  👉  QueueFlow AI  
+  👉 QueueFlow AI  
+  
 ---
 
 ## 🛠 Tech Stack
